@@ -1,6 +1,6 @@
 # Hello
 
-## Collage Video Lectures
+## Collage Video Lectures 
 
 * [Programing paradigms standford](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PL9D558D49CA734A02)
 
@@ -30,8 +30,36 @@
 
 * [Distributed Systems](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&index=1)
 
-## things i found interesting
+## College Syllabus/Slides
+
+click around and you can find the material 
+
+* [Principles of Programming Languages](https://www2.cs.arizona.edu/~collberg/Teaching/520/2008/)
+
+* [Compratative Programming Languages](https://www2.cs.arizona.edu/~collberg/Teaching/372/2013/)
+
+* [Functional and Logical Pramming](https://www2.cs.arizona.edu/~collberg/Teaching/07.363/) this one is kinda iffy
+
+* [Functional Programming](https://www2.cs.arizona.edu/~collberg/Teaching/415.360/Handouts/index.html) soo old, did not knew postscript files are
+
+* [Compilers and Systems Software](https://www2.cs.arizona.edu/~collberg/Teaching/453/2009/)
+
+* [Principles of Compilation](https://www2.cs.arizona.edu/~collberg/Teaching/553/2011/)
+
+* [Computer Security](https://www2.cs.arizona.edu/~collberg/Teaching/466-566/2014/)
+
+* [Foundations of Computer Systems](https://www2.cs.arizona.edu/~collberg/Teaching/340/Spring2001/)
+
+* [Introduction to Programming](https://www2.cs.arizona.edu/~collberg/Teaching/415.101/)
+
+* [Software Protection](https://www2.cs.arizona.edu/~collberg/Teaching/bsuir/2014/)
+
+* [^Twin](https://www2.cs.arizona.edu/~collberg/Teaching/mgu/2015/)
+
+## misc 
 
 * [APL demostration](https://www.youtube.com/watch?v=_DTpQ4Kk2wA&list=WL&index=90&t=711s)
 
 * [Bjarne Stroustrup Talks about C++](https://www.youtube.com/watch?v=69edOm889V4&list=WL&index=92&t=262s)
+
+* [Resume Template](https://drive.google.com/drive/folders/1h2CBVwmXf7vWBezOB4iyiYxqdGdC26QE)
