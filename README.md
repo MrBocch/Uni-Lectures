@@ -2,6 +2,12 @@
 
 ## Collage Video Lectures 
 
+* [Intro to programming with python](https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
+
+* [Harvard CS50](https://www.youtube.com/watch?v=8mAITcNt710)
+
+* [Intro to Game Development](https://www.youtube.com/watch?v=b16rgLIf8I4&list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh)
+
 * [Programing paradigms standford](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PL9D558D49CA734A02)
 
 * [Paradigms of Computer Programming](https://www.youtube.com/watch?v=MbrD-VrwpBY&list=PLhMnuBfGeCDO488LRJkng6nWzCQrIN1G1)
@@ -61,5 +67,7 @@ click around and you can find the material
 * [APL demostration](https://www.youtube.com/watch?v=_DTpQ4Kk2wA&list=WL&index=90&t=711s)
 
 * [Bjarne Stroustrup Talks about C++](https://www.youtube.com/watch?v=69edOm889V4&list=WL&index=92&t=262s)
+
+* [Hello World in 1,000 languages](http://www2.latech.edu/~acm/HelloWorld.shtml)
 
 * [Resume Template](https://drive.google.com/drive/folders/1h2CBVwmXf7vWBezOB4iyiYxqdGdC26QE)
