@@ -1,6 +1,6 @@
 # Hello
 
-## A list of courses that i have found
+## Collage Video Lectures
 
 * [Programing paradigms standford](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PL9D558D49CA734A02)
 
@@ -14,9 +14,9 @@
 
 * [SICP lecture](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
 
-* [Deep Learning Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
-
 * [code_report SICP](https://www.youtube.com/watch?v=oA-FdE3KV88&list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0)
+
+* [Deep Learning Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 * [Essentails of Interpretation](https://www.youtube.com/watch?v=8OYqvwQlJVI&list=PLGNbPb3dQJ_4WT_m3aI3T2LRf2R_FKM2k)
 
