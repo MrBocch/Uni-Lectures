@@ -26,6 +26,8 @@
 
 * [Essentails of Interpretation](https://www.youtube.com/watch?v=8OYqvwQlJVI&list=PLGNbPb3dQJ_4WT_m3aI3T2LRf2R_FKM2k)
 
+* [Principles of Pragramming Languages](https://cs.wellesley.edu/~cs251/f21/)
+
 * [Functional Programming Berkeley](https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=1)
 
 * [Intro to Database Systems Berkeley](https://www.youtube.com/watch?v=y5IShB9ihds&list=PLhMnuBfGeCDPtyC9kUf_hG_QwjYzZ0Am1)
@@ -71,3 +73,9 @@ click around and you can find the material
 * [Hello World in 1,000 languages](http://www2.latech.edu/~acm/HelloWorld.shtml)
 
 * [Resume Template](https://drive.google.com/drive/folders/1h2CBVwmXf7vWBezOB4iyiYxqdGdC26QE)
+
+## book
+
+* [Programming Languages](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/plai-2007-04-26.pdf)
+
+* [How to design Programs](https://htdp.org/2003-09-26/Book/curriculum.html)
