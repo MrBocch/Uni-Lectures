@@ -20,8 +20,6 @@
 
 * [SICP lecture](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
 
-* [code_report SICP](https://www.youtube.com/watch?v=oA-FdE3KV88&list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0)
-
 * [Deep Learning Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 * [Essentails of Interpretation](https://www.youtube.com/watch?v=8OYqvwQlJVI&list=PLGNbPb3dQJ_4WT_m3aI3T2LRf2R_FKM2k)
@@ -67,6 +65,8 @@ click around and you can find the material
 * [Information Security](https://www.youtube.com/watch?v=xH9pKr6t5xc&list=PLILVcu1djxZ172AhE_hwVKKD28XG-6deo)
 
 ## misc 
+
+* [code_report SICP](https://www.youtube.com/watch?v=oA-FdE3KV88&list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0)
 
 * [APL demostration](https://www.youtube.com/watch?v=_DTpQ4Kk2wA&list=WL&index=90&t=711s)
 
