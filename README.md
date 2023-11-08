@@ -1,5 +1,7 @@
 # Hello
 
+i havent watched any of these, im just collecting
+
 ## Collage Video Lectures 
 
 * [Intro to programming with python](https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
@@ -81,3 +83,5 @@ click around and you can find the material
 * [Programming Languages](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/plai-2007-04-26.pdf)
 
 * [How to design Programs](https://htdp.org/2003-09-26/Book/curriculum.html)
+
+* [The C book](https://www.youtube.com/watch?v=j-_s8f5K30I)
