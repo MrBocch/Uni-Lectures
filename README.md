@@ -85,3 +85,5 @@ click around and you can find the material
 * [How to design Programs](https://htdp.org/2003-09-26/Book/curriculum.html)
 
 * [The C book](https://www.youtube.com/watch?v=j-_s8f5K30I)
+
+* [Gentle Intro to Haskell](https://www.haskell.org/tutorial/)
