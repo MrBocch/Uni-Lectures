@@ -38,7 +38,7 @@ i havent watched any of these, im just collecting
 
 * [Distributed Systems](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&index=1)
 
-## College Syllabus/Slides
+## College web Syllabus/Slides
 
 click around and you can find the material 
 
@@ -67,6 +67,18 @@ click around and you can find the material
 * [Information Security](https://www.youtube.com/watch?v=xH9pKr6t5xc&list=PLILVcu1djxZ172AhE_hwVKKD28XG-6deo)
  
 * [Program and Data Representation](https://www.cs.virginia.edu/~evans/cs216/classes/)
+
+* [Biological Computing](https://computingbiology.github.io/)
+
+* [Theory of Computation](https://computingbiology.github.io/)
+
+* [CS Ethics](https://csethics.github.io/)
+
+* [Discrete Math](https://uvacs2102.github.io/)
+
+* [Crypto-Currency](http://bitcoin-class.org/allclasses/)
+
+* [Operating Systems (and rust?)](http://www.rust-class.org/)
 
 ## misc 
 
