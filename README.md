@@ -81,6 +81,10 @@ click around and you can find the material
 * [Hello World in 1,000 languages](http://www2.latech.edu/~acm/HelloWorld.shtml)
 
 * [Resume Template](https://drive.google.com/drive/folders/1h2CBVwmXf7vWBezOB4iyiYxqdGdC26QE)
+ 
+* [x86 Asm Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+
+* [cs216 exam](https://www.cs.virginia.edu/~evans/cs216/exams/final/index.html)
 
 ## book
 
