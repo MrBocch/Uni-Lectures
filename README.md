@@ -80,6 +80,8 @@ click around and you can find the material
 
 * [Operating Systems (and rust?)](http://www.rust-class.org/)
 
+* [Optimization Methods in Biz](https://web.mit.edu/15.053/www/) 
+
 ## misc 
 
 * [Mark Whalburg talks about idk](https://www.youtube.com/watch?v=xFFs9UgOAlE)
