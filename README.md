@@ -83,6 +83,8 @@ click around and you can find the material
 * [Optimization Methods in Biz](https://web.mit.edu/15.053/www/)
   ^ https://web.mit.edu/15.053/www/AMP-Chapter-01.pdf -> 01 .. 09
 
+* [Optimization Projects](https://web.stanford.edu/class/ee392o/)
+
 ## misc 
 
 * [Mark Whalburg talks about idk](https://www.youtube.com/watch?v=xFFs9UgOAlE)
