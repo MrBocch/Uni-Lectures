@@ -4,6 +4,8 @@ i havent watched any of these, im just collecting
 
 ## Video Lectures 
 
+* [The missing Semestr of CS](https://missing.csail.mit.edu/)
+
 * [Intro to programming with python](https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
 
 * [Harvard CS50](https://www.youtube.com/watch?v=8mAITcNt710)
