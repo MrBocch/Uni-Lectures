@@ -89,6 +89,8 @@ click around and you can find the material
 
 ## misc 
 
+* [Documnt Archiv](https://doc.cat-v.org/)
+
 * [Mark Whalburg talks about idk](https://www.youtube.com/watch?v=xFFs9UgOAlE)
 
 * [code_report SICP](https://www.youtube.com/watch?v=oA-FdE3KV88&list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0)
