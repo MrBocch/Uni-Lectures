@@ -89,8 +89,6 @@ click around and you can find the material
 
 * [Programming Paradimgs in portugese](https://www.ic.unicamp.br/~meidanis/courses/mc336/2013s2/)
 
-* 
-
 ## misc 
 
 * [Documnt Archiv](https://doc.cat-v.org/)
