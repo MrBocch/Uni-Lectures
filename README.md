@@ -87,6 +87,10 @@ click around and you can find the material
 
 * [Optimization Projects](https://web.stanford.edu/class/ee392o/)
 
+* [Programming Paradimgs in portugese](https://www.ic.unicamp.br/~meidanis/courses/mc336/2013s2/)
+
+* 
+
 ## misc 
 
 * [Documnt Archiv](https://doc.cat-v.org/)
@@ -106,6 +110,8 @@ click around and you can find the material
 * [x86 Asm Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 * [cs216 exam](https://www.cs.virginia.edu/~evans/cs216/exams/final/index.html)
+
+* [if you are interested in also learning portugese as coding](https://www.ic.unicamp.br/~meidanis/courses/)
 
 ## book
 
