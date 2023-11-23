@@ -89,6 +89,20 @@ click around and you can find the material
 
 * [Programming Paradimgs in portugese](https://www.ic.unicamp.br/~meidanis/courses/mc336/2013s2/)
 
+* [bham AI](https://www.cs.bham.ac.uk/~vxs/teaching/AI/lectures/)
+
+* [cryptography](https://www.cs.bham.ac.uk/~vxs/teaching/AI/lectures/)
+
+* [models of computation](https://www.cs.bham.ac.uk/~vxs/teaching/MoC/2009/)
+
+* [Input/Output](https://www.cs.bham.ac.uk/~vxs/teaching/SSC1/2009/io.html)
+
+* [Intro to XML](https://www.cs.bham.ac.uk/~vxs/teaching/SSC1/2009/xml.html)
+
+* [Intro to Computer Graphics](https://www.cs.bham.ac.uk/~vxs/teaching/SSC1/2009/graphics.html)
+
+* [birmingham 31166](https://birmingham.instructure.com/courses/31166)
+
 ## misc 
 
 * [Documnt Archiv](https://doc.cat-v.org/)
