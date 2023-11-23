@@ -103,6 +103,8 @@ click around and you can find the material
 
 * [birmingham 31166](https://birmingham.instructure.com/courses/31166)
 
+* [Haskell Workshop](https://www.cs.bham.ac.uk/~vxs/teaching/Haskell/)
+
 ## misc 
 
 * [Documnt Archiv](https://doc.cat-v.org/)
