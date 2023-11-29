@@ -42,6 +42,8 @@ i havent watched any of these, im just collecting
 
 * [How to Start a Startup](https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
 
+* [Linear Programming](https://www.youtube.com/watch?v=IOQApuleqvg&list=PLnpTsC7KB55OGFCiV-XXZzD-elZm6ECOh)
+
 ## web Syllabus/Slides
 
 click around and you can find the material 
