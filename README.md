@@ -113,6 +113,8 @@ click around and you can find the material
 
 ## misc 
 
+* [Binary Search Edgecase bug](https://blog.research.google/2006/06/extra-extra-read-all-about-it-nearly.html)
+
 * [Documnt Archiv](https://doc.cat-v.org/)
 
 * [Mark Whalburg talks about idk](https://www.youtube.com/watch?v=xFFs9UgOAlE)
