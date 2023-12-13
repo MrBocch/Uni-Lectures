@@ -1,7 +1,5 @@
 # Hello
 
-i havent watched any of these, im just collecting
-
 ## Video Lectures 
 
 * [The missing Semestr of CS](https://missing.csail.mit.edu/)
