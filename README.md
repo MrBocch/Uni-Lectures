@@ -10,7 +10,9 @@ i havent watched any of these, im just collecting
 
 * [Harvard CS50](https://www.youtube.com/watch?v=8mAITcNt710)
 
-* [Intro to Game Development](https://www.youtube.com/watch?v=b16rgLIf8I4&list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh)
+* [Harvard CS50g Intro to Game Development](https://www.youtube.com/watch?v=b16rgLIf8I4&list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh)
+
+* [C++ Game Development](https://www.youtube.com/watch?v=S7lXSihz0ac&list=PL_xRyXins848nDj2v-TJYahzvs-XW9sVV)
 
 * [Programing paradigms standford](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PL9D558D49CA734A02)
 
