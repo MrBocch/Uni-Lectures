@@ -18,6 +18,8 @@ i havent watched any of these, im just collecting
 
 * [Paradigms of Computer Programming](https://www.youtube.com/watch?v=MbrD-VrwpBY&list=PLhMnuBfGeCDO488LRJkng6nWzCQrIN1G1)
 
+* [Intro to Artificial Inteligence](https://www.youtube.com/watch?v=GAyOoLsu8R0&list=PL_xRyXins848SiESlWXDQ82js0lA_Y8G_&index=1)
+
 * [Steven Skiena Algorithms](https://www.youtube.com/watch?v=22hwcnXIGgk&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx)
 
 * [Intro to Algorithms](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&index=1)
