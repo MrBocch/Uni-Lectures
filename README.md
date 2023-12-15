@@ -136,6 +136,8 @@ click around and you can find the material
 * [cs216 exam](https://www.cs.virginia.edu/~evans/cs216/exams/final/index.html)
 
 * [if you are interested in also learning portugese as coding](https://www.ic.unicamp.br/~meidanis/courses/)
+ 
+* [Emacs from scratch](https://www.youtube.com/watch?v=74zOY-vgkyw&list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ&index=1)
 
 ## book
 
