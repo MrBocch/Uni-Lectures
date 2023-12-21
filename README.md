@@ -56,6 +56,8 @@ click around and you can find the material
 
 * [Principles of Programming Languages](https://www2.cs.arizona.edu/~collberg/Teaching/520/2008/)
 
+* [Programming Languages and Paradigms](https://www.cs.uni.edu/~wallingf/teaching/cs3540/)
+
 * [Theory of Computer Languages](https://cs.wellesley.edu/~cs251/s11/)
 
 * [Compratative Programming Languages](https://www2.cs.arizona.edu/~collberg/Teaching/372/2013/)
