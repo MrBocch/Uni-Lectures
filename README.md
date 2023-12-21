@@ -74,7 +74,23 @@ click around and you can find the material
 
 * [Foundations of Computer Systems](https://www2.cs.arizona.edu/~collberg/Teaching/340/Spring2001/)
 
+* [Data Structures](https://www.cs.uni.edu/~wallingf/teaching/052/)
+
+* [Object Oriented Programming](https://www.cs.uni.edu/~wallingf/teaching/062/)
+
 * [Introduction to Programming](https://www2.cs.arizona.edu/~collberg/Teaching/415.101/)
+
+* [Intro to Computation](https://www.cs.uni.edu/~wallingf/teaching/cs1510/)
+
+* [Intermediate Computing](https://www.cs.uni.edu/~wallingf/teaching/cs2530/)
+
+* [Design and Analysis of Algorithms](https://www.cs.uni.edu/~wallingf/teaching/cs3530/)
+
+* [Software Engineering](https://www.cs.uni.edu/~wallingf/teaching/172/)
+
+* [Agile Software Devolpment](https://www.cs.uni.edu/~wallingf/teaching/agile-may2014/)
+
+* [Software Systems](https://www.cs.uni.edu/~wallingf/teaching/171/)
 
 * [Software Protection](https://www2.cs.arizona.edu/~collberg/Teaching/bsuir/2014/)
 
@@ -87,6 +103,14 @@ click around and you can find the material
 * [Biological Computing](https://computingbiology.github.io/)
 
 * [Theory of Computation](https://computingbiology.github.io/)
+
+* [Media Computation](https://www.cs.uni.edu/~wallingf/teaching/061/)
+
+* [Artificial Inteligence](https://www.cs.uni.edu/~wallingf/teaching/161/)
+
+* [Intelligent Systems](https://www.cs.uni.edu/~wallingf/teaching/162/)
+
+* [Technology and Society](https://www.cs.uni.edu/~wallingf/teaching/capstone/)
 
 * [CS Ethics](https://csethics.github.io/)
 
@@ -108,6 +132,8 @@ click around and you can find the material
 * [cryptography](https://www.cs.bham.ac.uk/~vxs/teaching/AI/lectures/)
 
 * [models of computation](https://www.cs.bham.ac.uk/~vxs/teaching/MoC/2009/)
+
+* [Web Development Client Side](https://www.cs.uni.edu/~wallingf/teaching/cs1100/)
 
 * [Input/Output](https://www.cs.bham.ac.uk/~vxs/teaching/SSC1/2009/io.html)
 
@@ -149,7 +175,7 @@ click around and you can find the material
 
 * [Programming Languages](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/plai-2007-04-26.pdf)
 
-* [How to design Programs](https://htdp.org/2003-09-26/Book/curriculum.html)
+* [How to design Programs](https://htdp.org/2023-8-14/Book/index.html)
 
 * [The C book](https://www.youtube.com/watch?v=j-_s8f5K30I)
 
