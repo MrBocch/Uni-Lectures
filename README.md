@@ -58,6 +58,10 @@ click around and you can find the material
 
 * [Programming Languages and Paradigms](https://www.cs.uni.edu/~wallingf/teaching/cs3540/)
 
+* [Intro to Programming Languages](https://pages.cs.wisc.edu/~fischer/cs538.html)
+
+* [Intro to Programming Languages and Compilers](https://pages.cs.wisc.edu/~fischer/cs536.f18.html)
+
 * [Theory of Computer Languages](https://cs.wellesley.edu/~cs251/s11/)
 
 * [Compratative Programming Languages](https://www2.cs.arizona.edu/~collberg/Teaching/372/2013/)
