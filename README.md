@@ -28,6 +28,10 @@
 
 * [SICP lecture](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
 
+* [Operating Systems](https://www.youtube.com/watch?v=dv4mXBsv6TI&list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k)
+
+* [Operating Systems and System Programming](https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
+
 * [Deep Learning Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 * [Essentails of Interpretation](https://www.youtube.com/watch?v=8OYqvwQlJVI&list=PLGNbPb3dQJ_4WT_m3aI3T2LRf2R_FKM2k)
@@ -124,6 +128,8 @@ click around and you can find the material
 
 * [Operating Systems (and rust?)](http://www.rust-class.org/)
 
+* [Operating Systems and System Programming](https://cs162.org/)
+ 
 * [Optimization Methods in Biz](https://web.mit.edu/15.053/www/)
   ^ https://web.mit.edu/15.053/www/AMP-Chapter-01.pdf -> 01 .. 09
 
