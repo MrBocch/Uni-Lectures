@@ -68,6 +68,8 @@ click around and you can find the material
 
 * [Theory of Computer Languages](https://cs.wellesley.edu/~cs251/s11/)
 
+* [Concepts of Programming Languages](https://www.cs.miami.edu/home/odelia/teaching/csc419_spring19/)
+
 * [Compratative Programming Languages](https://www2.cs.arizona.edu/~collberg/Teaching/372/2013/)
 
 * [Functional and Logical Pramming](https://www2.cs.arizona.edu/~collberg/Teaching/07.363/) this one is kinda iffy
