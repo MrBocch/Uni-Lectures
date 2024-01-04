@@ -86,6 +86,8 @@ click around and you can find the material
 
 * [Data Structures](https://www.cs.uni.edu/~wallingf/teaching/052/)
 
+* [Data Structures and Algorithm Analysis](https://www.cs.miami.edu/home/odelia/teaching/csc317_fall19/index.html)
+
 * [Object Oriented Programming](https://www.cs.uni.edu/~wallingf/teaching/062/)
 
 * [Introduction to Programming](https://www2.cs.arizona.edu/~collberg/Teaching/415.101/)
@@ -117,6 +119,8 @@ click around and you can find the material
 * [Media Computation](https://www.cs.uni.edu/~wallingf/teaching/061/)
 
 * [Artificial Inteligence](https://www.cs.uni.edu/~wallingf/teaching/161/)
+
+* [Computational Nueroscience](https://www.cs.miami.edu/home/odelia/teaching/compneuro2021/index.html)
 
 * [Intelligent Systems](https://www.cs.uni.edu/~wallingf/teaching/162/)
 
