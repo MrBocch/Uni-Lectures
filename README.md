@@ -88,6 +88,8 @@ click around and you can find the material
 
 * [Foundations of Computer Systems](https://www2.cs.arizona.edu/~collberg/Teaching/340/Spring2001/)
 
+* [Systems Programming and Machine Organization](https://cs61.seas.harvard.edu/site/2023/#gsc.tab=0)
+
 * [Data Structures](https://www.cs.uni.edu/~wallingf/teaching/052/)
 
 * [Data Structures and Algorithm Analysis](https://www.cs.miami.edu/home/odelia/teaching/csc317_fall19/index.html)
