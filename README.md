@@ -1,4 +1,4 @@
-# Hello
+cs# Hello
 
 ## Video Lectures 
 
@@ -71,6 +71,8 @@ click around and you can find the material
 * [CS152 Programming Languages](https://groups.seas.harvard.edu/courses/cs152/2021sp/)
 
 * [Abstraction and Design in Computation](https://cs51.io/)
+
+* [Intro Theoritical Computer Science](https://people.seas.harvard.edu/~madhusudan/courses/Fall2020/)
 
 * [Concepts of Programming Languages](https://www.cs.miami.edu/home/odelia/teaching/csc419_spring19/)
 
