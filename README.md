@@ -155,6 +155,8 @@ click around and you can find the material
 
 * [cryptography](https://www.cs.bham.ac.uk/~vxs/teaching/AI/lectures/)
 
+* [Intro to cryptography](https://cs127.boazbarak.org/)
+
 * [models of computation](https://www.cs.bham.ac.uk/~vxs/teaching/MoC/2009/)
 
 * [Web Development Client Side](https://www.cs.uni.edu/~wallingf/teaching/cs1100/)
