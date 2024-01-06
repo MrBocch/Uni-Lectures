@@ -1,4 +1,5 @@
-cs# Hello
+My little repository of things i have found 
+on the internet.
 
 ## Video Lectures 
 
@@ -82,7 +83,7 @@ cs# Hello
 
 ## web Syllabus/Slides
 
-click around and you can find the material 
+### Programming Language Theory
 
 * [Principles of Programming Languages](https://cs.wellesley.edu/~cs251/f21/index.html)
 
@@ -98,33 +99,53 @@ click around and you can find the material
 
 * [CS152 Programming Languages](https://groups.seas.harvard.edu/courses/cs152/2021sp/)
 
-* [Abstraction and Design in Computation](https://cs51.io/)
-
-* [Intro Theoritical Computer Science](https://people.seas.harvard.edu/~madhusudan/courses/Fall2020/)
-
 * [Concepts of Programming Languages](https://www.cs.miami.edu/home/odelia/teaching/csc419_spring19/)
 
+* [Abstraction and Design in Computation](https://cs51.io/)
+
 * [Compratative Programming Languages](https://www2.cs.arizona.edu/~collberg/Teaching/372/2013/)
+
+* [Intro Theoritical Computer Science](https://people.seas.harvard.edu/~madhusudan/courses/Fall2020/)
 
 * [Functional and Logical Pramming](https://www2.cs.arizona.edu/~collberg/Teaching/07.363/) this one is kinda iffy
 
 * [Functional Programming](https://www2.cs.arizona.edu/~collberg/Teaching/415.360/Handouts/index.html) soo old, did not knew postscript files are
 
+* [Haskell Workshop](https://www.cs.bham.ac.uk/~vxs/teaching/Haskell/)
+
+* [Object Oriented Programming](https://www.cs.uni.edu/~wallingf/teaching/062/)
+
+
+### Compilers
+
 * [Compilers and Systems Software](https://www2.cs.arizona.edu/~collberg/Teaching/453/2009/)
 
 * [Principles of Compilation](https://www2.cs.arizona.edu/~collberg/Teaching/553/2011/)
 
+
+### Computer Security
+
 * [Computer Security](https://www2.cs.arizona.edu/~collberg/Teaching/466-566/2014/)
+
+* [Information Security](https://www.youtube.com/watch?v=xH9pKr6t5xc&list=PLILVcu1djxZ172AhE_hwVKKD28XG-6deo)
+
+
+### Arquitecture
 
 * [Foundations of Computer Systems](https://www2.cs.arizona.edu/~collberg/Teaching/340/Spring2001/)
 
 * [Systems Programming and Machine Organization](https://cs61.seas.harvard.edu/site/2023/#gsc.tab=0)
 
+
+### Algorithms
+
 * [Data Structures](https://www.cs.uni.edu/~wallingf/teaching/052/)
 
 * [Data Structures and Algorithm Analysis](https://www.cs.miami.edu/home/odelia/teaching/csc317_fall19/index.html)
 
-* [Object Oriented Programming](https://www.cs.uni.edu/~wallingf/teaching/062/)
+* [Design and Analysis of Algorithms](https://www.cs.uni.edu/~wallingf/teaching/cs3530/)
+
+### Intro to Programming
 
 * [Introduction to Programming](https://www2.cs.arizona.edu/~collberg/Teaching/415.101/)
 
@@ -132,7 +153,8 @@ click around and you can find the material
 
 * [Intermediate Computing](https://www.cs.uni.edu/~wallingf/teaching/cs2530/)
 
-* [Design and Analysis of Algorithms](https://www.cs.uni.edu/~wallingf/teaching/cs3530/)
+
+### Software Engineering
 
 * [Software Engineering](https://www.cs.uni.edu/~wallingf/teaching/172/)
 
@@ -142,9 +164,8 @@ click around and you can find the material
 
 * [Software Protection](https://www2.cs.arizona.edu/~collberg/Teaching/bsuir/2014/)
 
-* [^Twin](https://www2.cs.arizona.edu/~collberg/Teaching/mgu/2015/)
+* [Software Protection 2?](https://www2.cs.arizona.edu/~collberg/Teaching/mgu/2015/)
 
-* [Information Security](https://www.youtube.com/watch?v=xH9pKr6t5xc&list=PLILVcu1djxZ172AhE_hwVKKD28XG-6deo)
  
 * [Program and Data Representation](https://www.cs.virginia.edu/~evans/cs216/classes/)
 
@@ -154,52 +175,76 @@ click around and you can find the material
 
 * [Media Computation](https://www.cs.uni.edu/~wallingf/teaching/061/)
 
+### AI
+
 * [Artificial Inteligence](https://www.cs.uni.edu/~wallingf/teaching/161/)
 
 * [Computational Nueroscience](https://www.cs.miami.edu/home/odelia/teaching/compneuro2021/index.html)
 
 * [Intelligent Systems](https://www.cs.uni.edu/~wallingf/teaching/162/)
 
+* [bham AI](https://www.cs.bham.ac.uk/~vxs/teaching/AI/lectures/)
+
+
+### Ethics
+
 * [Technology and Society](https://www.cs.uni.edu/~wallingf/teaching/capstone/)
 
 * [CS Ethics](https://csethics.github.io/)
 
+
+### Math
+
 * [Discrete Math](https://uvacs2102.github.io/)
 
+* [Optimization Methods in Biz](https://web.mit.edu/15.053/www/) ->https://web.mit.edu/15.053/www/AMP-Chapter-01.pdf -> 01 .. 09
+
+* [Optimization Projects](https://web.stanford.edu/class/ee392o/)
+
+
+### Crypto
+
 * [Crypto-Currency](http://bitcoin-class.org/allclasses/)
+
+
+### Operating Systems
 
 * [Operating Systems (and rust?)](http://www.rust-class.org/)
 
 * [Operating Systems and System Programming](https://cs162.org/)
  
-* [Optimization Methods in Biz](https://web.mit.edu/15.053/www/)
-  ^ https://web.mit.edu/15.053/www/AMP-Chapter-01.pdf -> 01 .. 09
-
-* [Optimization Projects](https://web.stanford.edu/class/ee392o/)
-
 * [Programming Paradimgs in portugese](https://www.ic.unicamp.br/~meidanis/courses/mc336/2013s2/)
 
-* [bham AI](https://www.cs.bham.ac.uk/~vxs/teaching/AI/lectures/)
 
-* [cryptography](https://www.cs.bham.ac.uk/~vxs/teaching/AI/lectures/)
+### Cryptography
 
 * [Intro to cryptography](https://cs127.boazbarak.org/)
 
 * [models of computation](https://www.cs.bham.ac.uk/~vxs/teaching/MoC/2009/)
 
-* [Web Development Client Side](https://www.cs.uni.edu/~wallingf/teaching/cs1100/)
 
-* [Input/Output](https://www.cs.bham.ac.uk/~vxs/teaching/SSC1/2009/io.html)
+### Web Development
+
+* [Web Development Client Side](https://www.cs.uni.edu/~wallingf/teaching/cs1100/)
 
 * [Intro to XML](https://www.cs.bham.ac.uk/~vxs/teaching/SSC1/2009/xml.html)
 
+
+### Computer Graphics
+
 * [Intro to Computer Graphics](https://www.cs.bham.ac.uk/~vxs/teaching/SSC1/2009/graphics.html)
+
+
+### misc
 
 * [birmingham 31166](https://birmingham.instructure.com/courses/31166)
 
-* [Haskell Workshop](https://www.cs.bham.ac.uk/~vxs/teaching/Haskell/)
+* [Input/Output](https://www.cs.bham.ac.uk/~vxs/teaching/SSC1/2009/io.html)
 
-## misc 
+
+## misc^4
+
+Things that i found interesting and want to come back to
 
 * [Binary Search Edgecase bug](https://blog.research.google/2006/06/extra-extra-read-all-about-it-nearly.html)
 
@@ -225,7 +270,7 @@ click around and you can find the material
  
 * [Emacs from scratch](https://www.youtube.com/watch?v=74zOY-vgkyw&list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ&index=1)
 
-## book
+### book
 
 * [Programming Languages](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/plai-2007-04-26.pdf)
 
