@@ -2,21 +2,29 @@ cs# Hello
 
 ## Video Lectures 
 
-* [The missing Semestr of CS](https://missing.csail.mit.edu/)
-
-* [Intro to programming with python](https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
-
-* [Harvard CS50](https://www.youtube.com/watch?v=8mAITcNt710)
-
-* [Harvard CS50g Intro to Game Development](https://www.youtube.com/watch?v=b16rgLIf8I4&list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh)
-
-* [C++ Game Development](https://www.youtube.com/watch?v=S7lXSihz0ac&list=PL_xRyXins848nDj2v-TJYahzvs-XW9sVV)
+### Programming Language Theory
 
 * [Programing paradigms standford](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PL9D558D49CA734A02)
 
 * [Paradigms of Computer Programming](https://www.youtube.com/watch?v=MbrD-VrwpBY&list=PLhMnuBfGeCDO488LRJkng6nWzCQrIN1G1)
 
-* [Intro to Artificial Inteligence](https://www.youtube.com/watch?v=GAyOoLsu8R0&list=PL_xRyXins848SiESlWXDQ82js0lA_Y8G_&index=1)
+* [Essentails of Interpretation](https://www.youtube.com/watch?v=8OYqvwQlJVI&list=PLGNbPb3dQJ_4WT_m3aI3T2LRf2R_FKM2k)
+
+* [Principles of Pragramming Languages](https://cs.wellesley.edu/~cs251/f21/)
+
+* [Functional Programming Berkeley](https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=1)
+
+
+### Intro to Programming
+
+* [Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
+
+* [Intro to programming with python](https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
+
+* [Harvard CS50](https://www.youtube.com/watch?v=8mAITcNt710)
+
+
+### Algorithms
 
 * [Steven Skiena Algorithms](https://www.youtube.com/watch?v=22hwcnXIGgk&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx)
 
@@ -26,31 +34,51 @@ cs# Hello
 
 * [MIT Design and Analysis of Algorithms](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=1)
 
-* [SICP lecture](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
+
+### Game Development
+
+* [Harvard CS50g Intro to Game Development](https://www.youtube.com/watch?v=b16rgLIf8I4&list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh)
+
+* [C++ Game Development](https://www.youtube.com/watch?v=S7lXSihz0ac&list=PL_xRyXins848nDj2v-TJYahzvs-XW9sVV)
+
+
+### AI
+
+* [Intro to Artificial Inteligence](https://www.youtube.com/watch?v=GAyOoLsu8R0&list=PL_xRyXins848SiESlWXDQ82js0lA_Y8G_&index=1)
+
+* [Deep Learning Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+
+
+### Operating Systems
 
 * [Operating Systems](https://www.youtube.com/watch?v=dv4mXBsv6TI&list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k)
 
 * [Operating Systems and System Programming](https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
 
-* [Deep Learning Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
-* [Essentails of Interpretation](https://www.youtube.com/watch?v=8OYqvwQlJVI&list=PLGNbPb3dQJ_4WT_m3aI3T2LRf2R_FKM2k)
-
-* [Principles of Pragramming Languages](https://cs.wellesley.edu/~cs251/f21/)
-
-* [Functional Programming Berkeley](https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=1)
+### Database Systems
 
 * [Intro to Database Systems Berkeley](https://www.youtube.com/watch?v=y5IShB9ihds&list=PLhMnuBfGeCDPtyC9kUf_hG_QwjYzZ0Am1)
 
-* [Computer Arquitecture](https://www.youtube.com/watch?v=9y_sUqHeyy8&list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
 
-* [Math for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B&index=1)
+### Arquitecture
+
+* [Computer Arquitecture](https://www.youtube.com/watch?v=9y_sUqHeyy8&list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
 
 * [Distributed Systems](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&index=1)
 
-* [How to Start a Startup](https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
+### Math
+
+* [Math for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B&index=1)
 
 * [Linear Programming](https://www.youtube.com/watch?v=IOQApuleqvg&list=PLnpTsC7KB55OGFCiV-XXZzD-elZm6ECOh)
+
+
+### Misc
+
+* [How to Start a Startup](https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
+
+* [The missing Semestr of CS](https://missing.csail.mit.edu/)
 
 ## web Syllabus/Slides
 
