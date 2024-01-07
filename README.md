@@ -136,6 +136,8 @@ on the internet.
 
 * [Systems Programming and Machine Organization](https://cs61.seas.harvard.edu/site/2023/#gsc.tab=0)
 
+* [Distributed and Network Operating Systems](https://www.cs.miami.edu/home/geoff/Courses/MTH689-00S/)
+
 
 ### Algorithms
 
@@ -145,6 +147,8 @@ on the internet.
 
 * [Design and Analysis of Algorithms](https://www.cs.uni.edu/~wallingf/teaching/cs3530/)
 
+* [Data Structures and ALgorithms](https://www.cs.miami.edu/home/geoff/Courses/MTH517-00S/)
+
 ### Intro to Programming
 
 * [Introduction to Programming](https://www2.cs.arizona.edu/~collberg/Teaching/415.101/)
@@ -152,6 +156,14 @@ on the internet.
 * [Intro to Computation](https://www.cs.uni.edu/~wallingf/teaching/cs1510/)
 
 * [Intermediate Computing](https://www.cs.uni.edu/~wallingf/teaching/cs2530/)
+
+* [Computer Programming 1](https://www.cs.miami.edu/home/geoff/Courses/CSC120-24S/)
+
+* [Introduction to Computer Science 2](https://www.cs.miami.edu/home/geoff/Courses/JCUSubjects/CP1300/)
+
+* [C Programming and Unix](https://www.cs.miami.edu/home/geoff/Courses/CSC322-23S/)
+
+* [Introduction into Game Programming](https://www.cs.miami.edu/home/visser/csc329-game-programming.html)
 
 
 ### Software Engineering
@@ -166,14 +178,8 @@ on the internet.
 
 * [Software Protection 2?](https://www2.cs.arizona.edu/~collberg/Teaching/mgu/2015/)
 
- 
-* [Program and Data Representation](https://www.cs.virginia.edu/~evans/cs216/classes/)
+* [Object Oriented Software Engineering](https://www.cs.miami.edu/home/geoff/Courses/JCUSubjects/CP3120/)
 
-* [Biological Computing](https://computingbiology.github.io/)
-
-* [Theory of Computation](https://computingbiology.github.io/)
-
-* [Media Computation](https://www.cs.uni.edu/~wallingf/teaching/061/)
 
 ### AI
 
@@ -184,6 +190,8 @@ on the internet.
 * [Intelligent Systems](https://www.cs.uni.edu/~wallingf/teaching/162/)
 
 * [bham AI](https://www.cs.bham.ac.uk/~vxs/teaching/AI/lectures/)
+
+* [Introduction to Artificial Intelligence](https://www.cs.miami.edu/home/geoff/Courses/CSC545-08S/)
 
 
 ### Ethics
@@ -213,7 +221,9 @@ on the internet.
 
 * [Operating Systems and System Programming](https://cs162.org/)
  
-* [Programming Paradimgs in portugese](https://www.ic.unicamp.br/~meidanis/courses/mc336/2013s2/)
+* [Operating Systems](https://www.cs.miami.edu/home/burt/learning/csc421.241/)
+
+* [Computer Operating Systems](https://www.cs.miami.edu/home/geoff/Courses/CSC521-04F/)
 
 
 ### Cryptography
@@ -221,6 +231,8 @@ on the internet.
 * [Intro to cryptography](https://cs127.boazbarak.org/)
 
 * [models of computation](https://www.cs.bham.ac.uk/~vxs/teaching/MoC/2009/)
+
+* [Cryptography](https://www.cs.miami.edu/home/burt/learning/csc609.241/)
 
 
 ### Web Development
@@ -241,6 +253,23 @@ on the internet.
 
 * [Input/Output](https://www.cs.bham.ac.uk/~vxs/teaching/SSC1/2009/io.html)
 
+* [Programming Paradimgs in portugese](https://www.ic.unicamp.br/~meidanis/courses/mc336/2013s2/)
+
+* [Program and Data Representation](https://www.cs.virginia.edu/~evans/cs216/classes/)
+
+* [Biological Computing](https://computingbiology.github.io/)
+
+* [Theory of Computation](https://computingbiology.github.io/)
+
+* [Media Computation](https://www.cs.uni.edu/~wallingf/teaching/061/)
+
+* [Working with Automated Reasoning Tools](https://www.cs.miami.edu/home/geoff/Courses/TPTPSYS/)
+
+* [Comuter Science Seminars](https://www.cs.miami.edu/home/geoff/Courses/CSC405-15S/)
+
+* [Android Programming](https://www.cs.miami.edu/home/geoff/Courses/CSC330-23F/)
+
+* [Computing for Scientist](https://www.math.miami.edu/~hk/csc210/index.html)
 
 ## misc^4
 
