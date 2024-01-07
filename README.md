@@ -275,6 +275,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [Crafting Interpreters in Rust](https://www.youtube.com/playlist?list=PLib6-zlkjfXluRjBgK8grQH2IUSZjn-YN)
+
 * [Binary Search Edgecase bug](https://blog.research.google/2006/06/extra-extra-read-all-about-it-nearly.html)
 
 * [Documnt Archiv](https://doc.cat-v.org/)
@@ -298,6 +300,7 @@ Things that i found interesting and want to come back to
 * [if you are interested in also learning portugese as coding](https://www.ic.unicamp.br/~meidanis/courses/)
  
 * [Emacs from scratch](https://www.youtube.com/watch?v=74zOY-vgkyw&list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ&index=1)
+
 
 ### book
 
