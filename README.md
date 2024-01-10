@@ -134,6 +134,8 @@ on the internet.
 
 * [Foundations of Computer Systems](https://www2.cs.arizona.edu/~collberg/Teaching/340/Spring2001/)
 
+* [Wesley: Foundations of Computer Systems](https://cs.wellesley.edu/~cs240/f23/)
+
 * [Systems Programming and Machine Organization](https://cs61.seas.harvard.edu/site/2023/#gsc.tab=0)
 
 * [Distributed and Network Operating Systems](https://www.cs.miami.edu/home/geoff/Courses/MTH689-00S/)
