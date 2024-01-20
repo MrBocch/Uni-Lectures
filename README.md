@@ -129,6 +129,8 @@ on the internet.
 
 * [Information Security](https://www.youtube.com/watch?v=xH9pKr6t5xc&list=PLILVcu1djxZ172AhE_hwVKKD28XG-6deo)
 
+* [Computer Security Alaska](https://www.cs.uaf.edu/2017/fall/cs493/)
+
 
 ### Arquitecture
 
@@ -139,6 +141,8 @@ on the internet.
 * [Systems Programming and Machine Organization](https://cs61.seas.harvard.edu/site/2023/#gsc.tab=0)
 
 * [Distributed and Network Operating Systems](https://www.cs.miami.edu/home/geoff/Courses/MTH689-00S/)
+
+* [Assembly](https://www.cs.uaf.edu/2017/fall/cs301/)
 
 
 ### Algorithms
