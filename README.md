@@ -171,6 +171,8 @@ on the internet.
 
 * [Introduction into Game Programming](https://www.cs.miami.edu/home/visser/csc329-game-programming.html)
 
+* [Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu//~cs61a/sp11/)
+
 
 ### Software Engineering
 
@@ -256,6 +258,8 @@ on the internet.
 ### misc
 
 * [birmingham 31166](https://birmingham.instructure.com/courses/31166)
+
+* [sicp answer? idk](https://people.eecs.berkeley.edu/~bh/61a-pages/Solutions/)
 
 * [Input/Output](https://www.cs.bham.ac.uk/~vxs/teaching/SSC1/2009/io.html)
 
