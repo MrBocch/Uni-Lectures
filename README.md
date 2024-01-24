@@ -287,6 +287,8 @@ Things that i found interesting and want to come back to
 
 * [Crafting Interpreters in Rust](https://www.youtube.com/playlist?list=PLib6-zlkjfXluRjBgK8grQH2IUSZjn-YN)
 
+* [Ken Thompson interviewed by Brian Kernighan at VCF East 2019](https://www.youtube.com/watch?v=EY6q5dv_B-o&t=1042s)
+
 * [Binary Search Edgecase bug](https://blog.research.google/2006/06/extra-extra-read-all-about-it-nearly.html)
 
 * [Documnt Archiv](https://doc.cat-v.org/)
