@@ -219,6 +219,8 @@ on the internet.
 
 * [Introduction to Statistics](https://minerva.it.manchester.ac.uk/~saralees/intro.html)
 
+* [Statistics](https://homepage.divms.uiowa.edu/~dzimmer/)
+
 
 ### Crypto
 
