@@ -217,6 +217,8 @@ on the internet.
 
 * [Optimization Projects](https://web.stanford.edu/class/ee392o/)
 
+* [Introduction to Statistics](https://minerva.it.manchester.ac.uk/~saralees/intro.html)
+
 
 ### Crypto
 
