@@ -78,6 +78,8 @@ on the internet.
 
 * [Theory of Computation](https://www.youtube.com/watch?v=S3cOulqSAmU&list=PL_Si_t2-nG7cMHfpLOZ88TgEPbXp489HZ)
 
+* [Theory of Computation](https://www.youtube.com/watch?v=al4AK6ruRek&list=PLbMVogVj5nJSd25WnSU144ZyGmsqjuKr3)
+
 
 ### Misc
 
