@@ -74,6 +74,10 @@ on the internet.
 
 * [Linear Programming](https://www.youtube.com/watch?v=IOQApuleqvg&list=PLnpTsC7KB55OGFCiV-XXZzD-elZm6ECOh)
 
+### Theory
+
+* [Theory of Computation](https://www.youtube.com/watch?v=S3cOulqSAmU&list=PL_Si_t2-nG7cMHfpLOZ88TgEPbXp489HZ)
+
 
 ### Misc
 
