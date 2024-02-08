@@ -61,6 +61,12 @@ on the internet.
 
 * [Intro to Database Systems Berkeley](https://www.youtube.com/watch?v=y5IShB9ihds&list=PLhMnuBfGeCDPtyC9kUf_hG_QwjYzZ0Am1)
 
+* [Database Manegement Systems Intro](https://www.youtube.com/watch?v=i7iugcmrBJ8&list=PLXPbT_PYOiRipfX8zrv_9EpnSOpK9P__j)
+
+* [Database Systems](https://www.youtube.com/watch?v=4cWkVbC2bNE&t=5s)
+
+* [Query Optimization](https://www.youtube.com/watch?v=QRYVnKaZ9fw&list=PLXPbT_PYOiRiRh1B6y92BDXV9AE7Ibgks)
+
 
 ### Arquitecture
 
