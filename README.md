@@ -156,6 +156,8 @@ on the internet.
 
 * [Introduction to Computer Architecture](www.cs.wisc.edu/~markhill/cs552/Fall2006/)
 
+* [Advanced Computer Architecture I](www.cs.wisc.edu/~markhill/cs752/Fall2011/)
+
 * [Assembly](https://www.cs.uaf.edu/2017/fall/cs301/)
 
 
