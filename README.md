@@ -154,6 +154,8 @@ on the internet.
 
 * [Distributed and Network Operating Systems](https://www.cs.miami.edu/home/geoff/Courses/MTH689-00S/)
 
+* [Introduction to Computer Architecture](www.cs.wisc.edu/~markhill/cs552/Fall2006/)
+
 * [Assembly](https://www.cs.uaf.edu/2017/fall/cs301/)
 
 
@@ -184,6 +186,8 @@ on the internet.
 * [Introduction into Game Programming](https://www.cs.miami.edu/home/visser/csc329-game-programming.html)
 
 * [Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu//~cs61a/sp11/)
+
+* [Introduction to Computer Engineering](https://pages.cs.wisc.edu/~markhill/cs252/Spring2015/)
 
 
 ### Software Engineering
@@ -273,6 +277,8 @@ on the internet.
 
 ### misc
 
+* [Machine Orginization and Programming](https://pages.cs.wisc.edu/~markhill/cs354/Fall2008/)
+
 * [birmingham 31166](https://birmingham.instructure.com/courses/31166)
 
 * [sicp answer? idk](https://people.eecs.berkeley.edu/~bh/61a-pages/Solutions/)
@@ -328,6 +334,8 @@ Things that i found interesting and want to come back to
 * [if you are interested in also learning portugese as coding](https://www.ic.unicamp.br/~meidanis/courses/)
  
 * [Emacs from scratch](https://www.youtube.com/watch?v=74zOY-vgkyw&list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ&index=1)
+
+* [Rand files](https://pages.cs.wisc.edu/~markhill/restricted/)
 
 
 ### book
