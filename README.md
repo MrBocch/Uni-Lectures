@@ -1,7 +1,13 @@
 My little repository of things i have found 
 on the internet.
 
+
+
+
 ## Video Lectures 
+
+
+
 
 ### Programming Language Theory
 
@@ -23,8 +29,6 @@ on the internet.
 * [Intro to programming with python](https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
 
 * [Harvard CS50](https://www.youtube.com/watch?v=8mAITcNt710)
-
-* [The Beauty and Joy of Computing](https://cs10.org/sp24/)
 
 ### Algorithms
 
@@ -94,7 +98,13 @@ on the internet.
 
 * [The missing Semestr of CS](https://missing.csail.mit.edu/)
 
+
+  
+
 ## web Syllabus/Slides
+
+
+
 
 ### Programming Language Theory
 
@@ -192,6 +202,7 @@ on the internet.
 
 * [Introduction to Computer Engineering](https://pages.cs.wisc.edu/~markhill/cs252/Spring2015/)
 
+* [The Beauty and Joy of Computing](https://cs10.org/sp24/)
 
 ### Software Engineering
 
