@@ -24,6 +24,7 @@ on the internet.
 
 * [Harvard CS50](https://www.youtube.com/watch?v=8mAITcNt710)
 
+* [The Beauty and Joy of Computing](https://cs10.org/sp24/)
 
 ### Algorithms
 
