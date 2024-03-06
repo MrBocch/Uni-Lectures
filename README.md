@@ -296,6 +296,8 @@ on the internet.
 
 ### misc
 
+* [Berkeley (Computer Science/Electrical Engineering) Exam Archive](https://hkn.eecs.berkeley.edu/exams/)
+
 * [Machine Orginization and Programming](https://pages.cs.wisc.edu/~markhill/cs354/Fall2008/)
 
 * [birmingham 31166](https://birmingham.instructure.com/courses/31166)
