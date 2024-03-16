@@ -17,7 +17,7 @@ on the internet.
 
 * [Essentails of Interpretation](https://www.youtube.com/watch?v=8OYqvwQlJVI&list=PLGNbPb3dQJ_4WT_m3aI3T2LRf2R_FKM2k)
 
-* [Principles of Pragramming Languages](https://cs.wellesley.edu/~cs251/f21/)
+* [Principles of Pragramming Languages](https://www.youtube.com/playlist?list=PLXaqTeMx01E_eK1ZEpKvKL5KwSaj7cJW9)
 
 * [Functional Programming Berkeley](https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=1)
 
@@ -111,6 +111,8 @@ on the internet.
 * [Principles of Programming Languages](https://cs.wellesley.edu/~cs251/f21/index.html)
 
 * [Principles of Programming Languages](https://www2.cs.arizona.edu/~collberg/Teaching/520/2008/)
+
+* [Principles of Programming Languages](https://kmicinski.com//cis352-s22/)
 
 * [Programming Languages and Paradigms](https://www.cs.uni.edu/~wallingf/teaching/cs3540/)
 
