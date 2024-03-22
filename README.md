@@ -184,6 +184,8 @@ on the internet.
 
 * [Data Structures and ALgorithms](https://www.cs.miami.edu/home/geoff/Courses/MTH517-00S/)
 
+* [Data Structures and Functional Programming](https://www.cs.cornell.edu/courses/cs312/2008sp/)
+
 ### Intro to Programming
 
 * [Introduction to Programming](https://www2.cs.arizona.edu/~collberg/Teaching/415.101/)
