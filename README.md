@@ -98,6 +98,8 @@ on the internet.
 
 * [The missing Semestr of CS](https://missing.csail.mit.edu/)
 
+* [iOS App Development](https://www.youtube.com/watch?v=n1qabtjZ_jg)
+
 
   
 
@@ -303,6 +305,8 @@ on the internet.
 ### misc
 
 * [Berkeley (Computer Science/Electrical Engineering) Exam Archive](https://hkn.eecs.berkeley.edu/exams/)
+
+* [App Development for iOS](https://cs193p.sites.stanford.edu/2023)
 
 * [Machine Orginization and Programming](https://pages.cs.wisc.edu/~markhill/cs354/Fall2008/)
 
