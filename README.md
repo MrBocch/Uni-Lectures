@@ -190,6 +190,8 @@ on the internet.
 
 * [Introduction to Programming](https://www2.cs.arizona.edu/~collberg/Teaching/415.101/)
 
+* [SICP](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/)
+
 * [Intro to Computation](https://www.cs.uni.edu/~wallingf/teaching/cs1510/)
 
 * [Intermediate Computing](https://www.cs.uni.edu/~wallingf/teaching/cs2530/)
