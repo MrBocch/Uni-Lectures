@@ -244,6 +244,8 @@ on the internet.
 
 * [Introduction to Artificial Intelligence](https://www.cs.miami.edu/home/geoff/Courses/CSC545-08S/)
 
+* [Machine Learning](https://eecs189.org/)
+
 
 ### Ethics
 
