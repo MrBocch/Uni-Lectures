@@ -161,6 +161,8 @@ on the internet.
 
 ### Arquitecture
 
+* [CS456 Systems Programming](https://www.oldmanprogrammer.net/courses/cs456/)
+
 * [Foundations of Computer Systems](https://www2.cs.arizona.edu/~collberg/Teaching/340/Spring2001/)
 
 * [Wesley: Foundations of Computer Systems](https://cs.wellesley.edu/~cs240/f23/)
@@ -211,6 +213,8 @@ on the internet.
 * [Introduction to Computer Engineering](https://pages.cs.wisc.edu/~markhill/cs252/Spring2015/)
 
 * [The Beauty and Joy of Computing](https://cs10.org/sp24/)
+
+* [CS351 Computer Organization](https://www.oldmanprogrammer.net/courses/cs351/)
 
 ### Software Engineering
 
@@ -274,6 +278,8 @@ on the internet.
 
 ### Operating Systems
 
+* [CS471/571 Operating Systems](https://www.oldmanprogrammer.net/courses/cs471/)
+
 * [Operating Systems (and rust?)](http://www.rust-class.org/)
 
 * [Operating Systems and System Programming](https://cs162.org/)
@@ -296,6 +302,8 @@ on the internet.
 
 * [Web Development Client Side](https://www.cs.uni.edu/~wallingf/teaching/cs1100/)
 
+* [CS 479/579](https://www.oldmanprogrammer.net/courses/cs479/)
+
 * [Intro to XML](https://www.cs.bham.ac.uk/~vxs/teaching/SSC1/2009/xml.html)
 
 
@@ -305,6 +313,8 @@ on the internet.
 
 
 ### misc
+
+* [CS 469 Linux and Unix Administration and Networking](https://www.oldmanprogrammer.net/courses/cs469/)
 
 * [Berkeley (Computer Science/Electrical Engineering) Exam Archive](https://hkn.eecs.berkeley.edu/exams/)
 
