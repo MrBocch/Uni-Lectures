@@ -322,6 +322,8 @@ on the internet.
 
 * [App Development for iOS](https://cs193p.sites.stanford.edu/2023)
 
+* [rand stuff](https://people.computing.clemson.edu/~jmarty/courses/)
+
 * [Machine Orginization and Programming](https://pages.cs.wisc.edu/~markhill/cs354/Fall2008/)
 
 * [birmingham 31166](https://birmingham.instructure.com/courses/31166)
