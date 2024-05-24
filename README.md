@@ -198,6 +198,8 @@ on the internet.
 
 * [Intro to Computation](https://www.cs.uni.edu/~wallingf/teaching/cs1510/)
 
+* [Introduction to Computing for Engineers and Physical Scientist](https://courses.engr.illinois.edu/cs101/su2015/)
+
 * [Intermediate Computing](https://www.cs.uni.edu/~wallingf/teaching/cs2530/)
 
 * [Computer Programming 1](https://www.cs.miami.edu/home/geoff/Courses/CSC120-24S/)
