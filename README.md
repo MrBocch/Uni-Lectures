@@ -316,6 +316,8 @@ on the internet.
 
 ### misc
 
+* [Principles of Computing](http://www.cs.cmu.edu/~15110-f12/index.html)
+
 * [CS 469 Linux and Unix Administration and Networking](https://www.oldmanprogrammer.net/courses/cs469/)
 
 * [Berkeley (Computer Science/Electrical Engineering) Exam Archive](https://hkn.eecs.berkeley.edu/exams/)
