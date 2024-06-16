@@ -252,6 +252,8 @@ on the internet.
 
 * [Machine Learning](https://eecs189.org/)
 
+* [Artificial Neural Networks](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15782-f06/index.html)
+
 
 ### Ethics
 
