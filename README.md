@@ -318,6 +318,8 @@ on the internet.
 
 ### misc
 
+* [Shell Scripting](https://www.bu.edu/tech/files/2019/06/Intro-To-Scripting-with-Bash.pdf)
+
 * [Principles of Computing](http://www.cs.cmu.edu/~15110-f12/index.html)
 
 * [CS 469 Linux and Unix Administration and Networking](https://www.oldmanprogrammer.net/courses/cs469/)
