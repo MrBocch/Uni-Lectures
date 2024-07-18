@@ -362,6 +362,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [APL demostration 1975](https://www.youtube.com/watch?v=_DTpQ4Kk2wA)
+
 * [Crafting Interpreters in Rust](https://www.youtube.com/playlist?list=PLib6-zlkjfXluRjBgK8grQH2IUSZjn-YN)
 
 * [Tears of a Kingdom Physics](https://www.youtube.com/watch?v=hRBhGb9WTpQ)
