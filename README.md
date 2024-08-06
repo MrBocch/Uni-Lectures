@@ -362,6 +362,10 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [Intro to 0DE5](https://www.youtube.com/watch?v=76acHVJfziw)
+
+* [Programming Like It's 1979](https://www.youtube.com/watch?v=PNOj6GTzfGY&list=PLu6SHDdOToSe0T77gUkkhxpOFmFvcvDPn)
+
 * [APL demostration 1975](https://www.youtube.com/watch?v=_DTpQ4Kk2wA)
 
 * [Crafting Interpreters in Rust](https://www.youtube.com/playlist?list=PLib6-zlkjfXluRjBgK8grQH2IUSZjn-YN)
