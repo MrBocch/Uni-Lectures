@@ -182,6 +182,8 @@ on the internet.
 
 * [Data Structures](https://www.cs.uni.edu/~wallingf/teaching/052/)
 
+* [CIS2168 Data Structures](https://cis.temple.edu/~ingargio/cis68/)
+
 * [Data Structures and Algorithm Analysis](https://www.cs.miami.edu/home/odelia/teaching/csc317_fall19/index.html)
 
 * [Design and Analysis of Algorithms](https://www.cs.uni.edu/~wallingf/teaching/cs3530/)
@@ -208,6 +210,8 @@ on the internet.
 
 * [C Programming and Unix](https://www.cs.miami.edu/home/geoff/Courses/CSC322-23S/)
 
+* [Programming in C](https://cis.temple.edu/~ingargio/cis68/)
+
 * [Introduction into Game Programming](https://www.cs.miami.edu/home/visser/csc329-game-programming.html)
 
 * [Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu//~cs61a/sp11/)
@@ -219,6 +223,8 @@ on the internet.
 * [CS351 Computer Organization](https://www.oldmanprogrammer.net/courses/cs351/)
 
 ### Software Engineering
+
+* [Program Design and Abstraction](https://cis.temple.edu/~ingargio/cis67/)
 
 * [Software Engineering](https://www.cs.uni.edu/~wallingf/teaching/172/)
 
@@ -240,7 +246,7 @@ on the internet.
 
 ### AI
 
-* [Artificial Inteligence](https://www.cs.uni.edu/~wallingf/teaching/161/)
+* [Artificial Intelligence](https://www.cs.uni.edu/~wallingf/teaching/161/)
 
 * [Computational Nueroscience](https://www.cs.miami.edu/home/odelia/teaching/compneuro2021/index.html)
 
@@ -254,6 +260,7 @@ on the internet.
 
 * [Artificial Neural Networks](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15782-f06/index.html)
 
+* [Artificial Intelligence "old"](https://cis.temple.edu/~ingargio/cis587/index.html)
 
 ### Ethics
 
@@ -315,6 +322,9 @@ on the internet.
 
 * [Intro to Computer Graphics](https://www.cs.bham.ac.uk/~vxs/teaching/SSC1/2009/graphics.html)
 
+### Networks
+
+* [Introduction to Distributed Systems and Networks](https://cis.temple.edu/~ingargio/cis307/index.html)
 
 ### misc
 
