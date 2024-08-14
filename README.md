@@ -330,6 +330,8 @@ on the internet.
 
 ### misc
 
+* [EDSAC poster](https://www.cl.cam.ac.uk/~mr10/Edsac/edsacposter.pdf)
+
 * [Software Tools Every Programmer Should Know](https://web.stanford.edu/class/cs45/)
 
 * [Shell Scripting](https://www.bu.edu/tech/files/2019/06/Intro-To-Scripting-with-Bash.pdf)
