@@ -94,6 +94,8 @@ on the internet.
 
 ### Misc
 
+* [NSA Releases Grace Hopper Lecture](https://www.youtube.com/watch?v=_bP14OzIJWI) 
+
 * [How to Start a Startup](https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
 
 * [The missing Semestr of CS](https://missing.csail.mit.edu/)
