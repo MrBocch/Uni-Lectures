@@ -380,6 +380,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [The Best Programmer I Know](https://www.youtube.com/watch?v=tgaKAF_eiOg)
+
 * [Create your own SSG](https://www.bashfulbytes.com/posts/staticsitegenerator1.html)
 
 * [Intro to 0DE5](https://www.youtube.com/watch?v=76acHVJfziw)
