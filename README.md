@@ -96,6 +96,8 @@ on the internet.
 
 * [TCP/IP For programmers](https://www.youtube.com/watch?v=0OztKsGTqos)
 
+* [ICCS Summer School](https://www.youtube.com/watch?v=56DPV_Sxeyk&list=PL3PByZO-B6dM4pw2AwLepEBsfDrly9L0w)
+
 * [NSA Releases Grace Hopper Lecture](https://www.youtube.com/watch?v=_bP14OzIJWI) 
 
 * [How to Start a Startup](https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
