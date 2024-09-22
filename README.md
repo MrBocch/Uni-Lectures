@@ -19,6 +19,8 @@ on the internet.
 
 * [Principles of Pragramming Languages](https://www.youtube.com/playlist?list=PLXaqTeMx01E_eK1ZEpKvKL5KwSaj7cJW9)
 
+* [Principles of Programming Languages](https://www.youtube.com/playlist?list=PLXaqTeMx01E_eK1ZEpKvKL5KwSaj7cJW9)
+
 * [Functional Programming Berkeley](https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=1)
 
 
@@ -30,6 +32,10 @@ on the internet.
 
 * [Harvard CS50](https://www.youtube.com/watch?v=8mAITcNt710)
 
+* [Intro to Programming](https://www.youtube.com/watch?v=2ApsxBVcUc4&list=PLF7ZhwvkczzMvGgjESyw10nnCt8bR9l3g)
+
+* [Programming for Mechatronics](https://www.youtube.com/watch?v=1GKoO1-qy7k&list=PLF7ZhwvkczzPNkvRN6zntEu0HEUDyu1_3)
+
 ### Algorithms
 
 * [Steven Skiena Algorithms](https://www.youtube.com/watch?v=22hwcnXIGgk&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx)
@@ -40,6 +46,7 @@ on the internet.
 
 * [MIT Design and Analysis of Algorithms](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=1)
 
+* [Data Structures and ALgorithms](https://www.youtube.com/watch?v=FWwPVD1rZ3c&list=PLF7ZhwvkczzOBfjct04s3Ke8DvWvDbllJ)
 
 ### Game Development
 
@@ -92,9 +99,23 @@ on the internet.
 * [Theory of Computation](https://www.youtube.com/watch?v=al4AK6ruRek&list=PLbMVogVj5nJSd25WnSU144ZyGmsqjuKr3)
 
 
+### Web
+
+* [Server Side Web Programming](https://www.youtube.com/watch?v=R8ctZdjY9cQ&list=PLF7ZhwvkczzOOAKXlQ7zsDZGqYCMtJWam&index=1)
+
+* [Client Side Programming](https://www.youtube.com/watch?v=YreqnI9rm3I&list=PLF7ZhwvkczzOwo-F417Ip7g3NtKdj37ns)
+
+* [Server Side Programming 2](https://www.youtube.com/watch?v=fxe3Dx6xGq4&list=PLF7ZhwvkczzNQBD_sJ98KlflqPUFyABdm)
+
+* [Web Programming](https://www.youtube.com/watch?v=VK4eims9-m0&list=PLF7ZhwvkczzPPjp_qR_ZzCua-7cNxrpOc)
+
 ### Misc
 
+* [Embedded Systems Design](https://www.youtube.com/watch?v=wnVyjfC6uxw&list=PLF7ZhwvkczzOBH9F3GMC9MZ_jCqBpo69P)
+
 * [TCP/IP For programmers](https://www.youtube.com/watch?v=0OztKsGTqos)
+
+* [Java](https://www.youtube.com/watch?v=2-bsmnof26Y&list=PLF7ZhwvkczzMhP9la9KQAFw42VsaePf9x)
 
 * [ICCS Summer School](https://www.youtube.com/watch?v=56DPV_Sxeyk&list=PL3PByZO-B6dM4pw2AwLepEBsfDrly9L0w)
 
