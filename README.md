@@ -111,6 +111,8 @@ on the internet.
 
 ### Misc
 
+* [Homemade Hero](https://www.youtube.com/playlist?list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU)
+
 * [Embedded Systems Design](https://www.youtube.com/watch?v=wnVyjfC6uxw&list=PLF7ZhwvkczzOBH9F3GMC9MZ_jCqBpo69P)
 
 * [TCP/IP For programmers](https://www.youtube.com/watch?v=0OztKsGTqos)
