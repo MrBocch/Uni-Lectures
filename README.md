@@ -359,6 +359,8 @@ on the internet.
 
 ### misc
 
+* [APL since 1978](https://dl.acm.org/doi/pdf/10.1145/3386319)
+
 * [EDSAC poster](https://www.cl.cam.ac.uk/~mr10/Edsac/edsacposter.pdf)
 
 * [Software Tools Every Programmer Should Know](https://web.stanford.edu/class/cs45/)
