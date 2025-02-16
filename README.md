@@ -407,6 +407,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [NASA 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
+
 * [notch livestream](https://www.youtube.com/playlist?list=PLgAujBKarXXoMxJDyi1Am4yvfbHYWRwOC)
 
 * [The Best Programmer I Know](https://www.youtube.com/watch?v=tgaKAF_eiOg)
