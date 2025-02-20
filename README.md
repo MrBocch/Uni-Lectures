@@ -23,6 +23,8 @@ on the internet.
 
 * [Functional Programming Berkeley](https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=1)
 
+* [Functional Programming in OCaml](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
+
 
 ### Intro to Programming
 
