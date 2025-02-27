@@ -180,6 +180,8 @@ on the internet.
 
 ### Compilers
 
+* [Compiler Design](https://www.capsl.udel.edu/courses/cpeg421/2012/main.php?p=home)
+
 * [Compilers and Systems Software](https://www2.cs.arizona.edu/~collberg/Teaching/453/2009/)
 
 * [Principles of Compilation](https://www2.cs.arizona.edu/~collberg/Teaching/553/2011/)
