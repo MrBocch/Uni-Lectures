@@ -413,6 +413,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [Oral History of Ken Thompson](https://www.youtube.com/watch?v=wqI7MrtxPnk)
+
 * [NASA 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
 
 * [notch livestream](https://www.youtube.com/playlist?list=PLgAujBKarXXoMxJDyi1Am4yvfbHYWRwOC)
