@@ -413,6 +413,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [Video Game Hardware](https://www.youtube.com/watch?v=_XTYoqUUqOo&list=PL913jlwh9zkmrPq7uX2UiE-SbZDGqwm_m)
+
 * [Oral History of Ken Thompson](https://www.youtube.com/watch?v=wqI7MrtxPnk)
 
 * [NASA 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
