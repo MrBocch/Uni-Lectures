@@ -247,6 +247,8 @@ on the internet.
 
 * [C Programming and Unix](https://www.cs.miami.edu/home/geoff/Courses/CSC322-23S/)
 
+* [Introduction to Programming Systems](https://www.cs.princeton.edu/courses/archive/spring04/cos217/)
+
 * [Programming in C](https://cis.temple.edu/~ingargio/cis68/)
 
 * [Introduction into Game Programming](https://www.cs.miami.edu/home/visser/csc329-game-programming.html)
