@@ -417,6 +417,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [Introduction to Logic](http://intrologic.stanford.edu/public/lessons.php)
+
 * [Video Game Hardware](https://www.youtube.com/watch?v=_XTYoqUUqOo&list=PL913jlwh9zkmrPq7uX2UiE-SbZDGqwm_m)
 
 * [Oral History of Ken Thompson](https://www.youtube.com/watch?v=wqI7MrtxPnk)
