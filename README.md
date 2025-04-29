@@ -367,6 +367,8 @@ on the internet.
 
 ### misc
 
+* [Teach yourself CS](https://teachyourselfcs.com/)
+
 * [APL since 1978](https://dl.acm.org/doi/pdf/10.1145/3386319)
 
 * [EDSAC poster](https://www.cl.cam.ac.uk/~mr10/Edsac/edsacposter.pdf)
