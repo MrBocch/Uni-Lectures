@@ -301,11 +301,15 @@ on the internet.
 
 * [Artificial Intelligence "old"](https://cis.temple.edu/~ingargio/cis587/index.html)
 
+* [Modeling Natural Systems: Neural Networks and Other Complex Systems](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/index.html)
+
 ### Ethics
 
 * [Technology and Society](https://www.cs.uni.edu/~wallingf/teaching/capstone/)
 
 * [CS Ethics](https://csethics.github.io/)
+
+* [CS 181: Computers, Ethics, and Public Policy](https://cs.stanford.edu/people/eroberts/courses/cs181/)
 
 
 ### Math
@@ -368,6 +372,8 @@ on the internet.
 ### misc
 
 * [Teach yourself CS](https://teachyourselfcs.com/)
+
+* [The Intellectual Excitement of Computer Science](https://cs.stanford.edu/people/eroberts/courses/soco/)
 
 * [APL since 1978](https://dl.acm.org/doi/pdf/10.1145/3386319)
 
