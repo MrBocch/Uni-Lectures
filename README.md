@@ -423,6 +423,10 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [Early days of Unix and design of sh by Stephen R. Bourne](https://www.youtube.com/watch?v=FI_bZhV7wpI)
+
+* [Gerald Jay Sussman on Flexible Systems, The Power of Generic Operations](https://www.youtube.com/watch?v=cblhgNUoX9M)
+
 * [Introduction to Logic](http://intrologic.stanford.edu/public/lessons.php)
 
 * [Video Game Hardware](https://www.youtube.com/watch?v=_XTYoqUUqOo&list=PL913jlwh9zkmrPq7uX2UiE-SbZDGqwm_m)
