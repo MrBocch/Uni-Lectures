@@ -314,6 +314,8 @@ on the internet.
 
 ### Math
 
+* [The Mathematics of Toys and Games](https://web.mit.edu/sp.268/www/2010/index.html)
+
 * [Discrete Math](https://uvacs2102.github.io/)
 
 * [Optimization Methods in Biz](https://web.mit.edu/15.053/www/) ->https://web.mit.edu/15.053/www/AMP-Chapter-01.pdf -> 01 .. 09
