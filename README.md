@@ -425,6 +425,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [Gabe Newell: On Productivity, Economics, Political Institutions, and the Future of Corporations](https://www.youtube.com/watch?v=Td_PGkfIdIQ)
+
 * [Early days of Unix and design of sh by Stephen R. Bourne](https://www.youtube.com/watch?v=FI_bZhV7wpI)
 
 * [Gerald Jay Sussman on Flexible Systems, The Power of Generic Operations](https://www.youtube.com/watch?v=cblhgNUoX9M)
