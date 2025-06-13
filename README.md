@@ -425,6 +425,9 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+Amazing video.
+* [going fast is about doing less](https://www.youtube.com/watch?v=5rb0vvJ7NCY)
+
 * [Gabe Newell: On Productivity, Economics, Political Institutions, and the Future of Corporations](https://www.youtube.com/watch?v=Td_PGkfIdIQ)
 
 * [Early days of Unix and design of sh by Stephen R. Bourne](https://www.youtube.com/watch?v=FI_bZhV7wpI)
