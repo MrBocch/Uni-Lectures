@@ -229,6 +229,8 @@ on the internet.
 
 * [Data Structures and Functional Programming](https://www.cs.cornell.edu/courses/cs312/2008sp/)
 
+* [Coping with intractability: parameterized and fast-exponential algorithms](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15859-f19/www/)
+
 ### Intro to Programming
 
 * [Introduction to Programming](https://www2.cs.arizona.edu/~collberg/Teaching/415.101/)
@@ -314,6 +316,8 @@ on the internet.
 
 ### Math
 
+* [Probability and Computing](https://cmuprobability.wordpress.com/)
+
 * [The Mathematics of Toys and Games](https://web.mit.edu/sp.268/www/2010/index.html)
 
 * [Discrete Math](https://uvacs2102.github.io/)
@@ -372,6 +376,10 @@ on the internet.
 * [Introduction to Distributed Systems and Networks](https://cis.temple.edu/~ingargio/cis307/index.html)
 
 ### misc
+
+* [Great Ideas in Computer Science](https://www.andrew.cmu.edu/course/15-251/index.html)
+
+* [More Great Ideas in Theoretical Computer Science](https://people.eecs.berkeley.edu/~venkatg/teaching/15252-sp21/index.html)
 
 * [Teach yourself CS](https://teachyourselfcs.com/)
 
