@@ -433,6 +433,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [Software Folklore](https://beza1e1.tuxen.de/lore/)
+
 Amazing video.
 * [going fast is about doing less](https://www.youtube.com/watch?v=5rb0vvJ7NCY)
 
