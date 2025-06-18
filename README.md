@@ -265,6 +265,8 @@ on the internet.
 
 ### Software Engineering
 
+* [Foundations of Software Engineering](https://home.cs.colorado.edu/~kena/classes/5828/f16/)
+
 * [Program Design and Abstraction](https://cis.temple.edu/~ingargio/cis67/)
 
 * [Software Engineering](https://www.cs.uni.edu/~wallingf/teaching/172/)
