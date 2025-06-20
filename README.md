@@ -377,6 +377,8 @@ on the internet.
 
 * [Introduction to Distributed Systems and Networks](https://cis.temple.edu/~ingargio/cis307/index.html)
 
+* [Introduction to Computer Networking](https://cs144.github.io/)
+
 ### misc
 
 * [Great Ideas in Computer Science](https://www.andrew.cmu.edu/course/15-251/index.html)
