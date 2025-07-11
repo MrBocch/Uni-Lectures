@@ -171,6 +171,8 @@ on the internet.
 
 * [Functional Programming](https://www2.cs.arizona.edu/~collberg/Teaching/415.360/Handouts/index.html) soo old, did not knew postscript files are
 
+* [Functional Programming 15-50](https://www.cs.cmu.edu/~15150/previous-semesters/2012-spring/index.html)
+
 * [Functional Programing in OCaml](https://courses.cs.cornell.edu/cs3110/2021sp/textbook/)
 
 * [Haskell Workshop](https://www.cs.bham.ac.uk/~vxs/teaching/Haskell/)
