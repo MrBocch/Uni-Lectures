@@ -439,6 +439,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [Interactive WarGames](https://overthewire.org/wargames/)
+
 * [The Big OOP's Casey Muratori](https://www.youtube.com/watch?v=wo84LFzx5nI)
 
 * [Brian Beckman: Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
