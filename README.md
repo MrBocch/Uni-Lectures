@@ -439,6 +439,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [The Big OOP's Casey Muratori](https://www.youtube.com/watch?v=wo84LFzx5nI)
+
 * [Brian Beckman: Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 
 * [Software Folklore](https://beza1e1.tuxen.de/lore/)
