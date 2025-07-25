@@ -320,6 +320,8 @@ on the internet.
 
 ### Math
 
+* [CS103 Mathematical Foundations of Computing](https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/)
+
 * [Probability and Computing](https://cmuprobability.wordpress.com/)
 
 * [The Mathematics of Toys and Games](https://web.mit.edu/sp.268/www/2010/index.html)
