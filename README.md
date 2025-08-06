@@ -339,6 +339,8 @@ on the internet.
 
 ### Crypto
 
+* [Bitcoin and Cryptocurrencies](https://cs1981x.bauska.org/)
+
 * [Crypto-Currency](http://bitcoin-class.org/allclasses/)
 
 
