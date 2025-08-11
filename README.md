@@ -443,6 +443,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [Revolution OS](https://www.youtube.com/watch?v=k0RYQVkQmWU)
+
 * [Interactive WarGames](https://overthewire.org/wargames/)
 
 * [The Big OOP's Casey Muratori](https://www.youtube.com/watch?v=wo84LFzx5nI)
