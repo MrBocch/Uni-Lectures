@@ -68,6 +68,10 @@ on the internet.
 
 * [Operating Systems](https://www.youtube.com/watch?v=dv4mXBsv6TI&list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k)
 
+* [Operating Systems cs5460](https://www.youtube.com/watch?v=lLwee3ElfyA&list=PLsoEMNGAqtDN1u9Q55xoRFOJ3e3hxqSaj)
+
+* [Advanced OS implementation](https://www.youtube.com/watch?v=7C75ebULd7Y&list=PLsoEMNGAqtDM3TZrAyuDn39iBIWpOixGb)
+
 * [Operating Systems and System Programming](https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
 
 
@@ -84,7 +88,9 @@ on the internet.
 
 ### Arquitecture
 
-* [Computer Arquitecture](https://www.youtube.com/watch?v=9y_sUqHeyy8&list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
+* [Computer Architecture](https://www.youtube.com/watch?v=9y_sUqHeyy8&list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
+
+* [Computer System Architecture](https://www.youtube.com/watch?v=twrfCNcrZDw&list=PLsoEMNGAqtDP4-2i32GkU26fqFVw6EaVz)
 
 * [Distributed Systems](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&index=1)
 
