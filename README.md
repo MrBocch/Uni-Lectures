@@ -188,6 +188,8 @@ on the internet.
 
 ### Compilers
 
+* [Compilers](https://groups.seas.harvard.edu/courses/cs153/2018fa/)
+
 * [Compiler Design](https://www.capsl.udel.edu/courses/cpeg421/2012/main.php?p=home)
 
 * [Compilers and Systems Software](https://www2.cs.arizona.edu/~collberg/Teaching/453/2009/)
@@ -272,6 +274,8 @@ on the internet.
 * [CS351 Computer Organization](https://www.oldmanprogrammer.net/courses/cs351/)
 
 ### Software Engineering
+
+* [Computer Systems](https://ebac2018.sites.pomona.edu/classes/cs105/2020fa/lectures/)
 
 * [Foundations of Software Engineering](https://home.cs.colorado.edu/~kena/classes/5828/f16/)
 
