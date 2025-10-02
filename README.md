@@ -185,6 +185,8 @@ on the internet.
 
 * [Object Oriented Programming](https://www.cs.uni.edu/~wallingf/teaching/062/)
 
+* [CS 1351](https://www.cct.lsu.edu/~sbrandt/csc1351/)
+
 
 ### Compilers
 
@@ -207,6 +209,8 @@ on the internet.
 
 
 ### Arquitecture
+
+* [CS 4585](https://www.cct.lsu.edu/~sbrandt/csc4585/)
 
 * [CS456 Systems Programming](https://www.oldmanprogrammer.net/courses/cs456/)
 
