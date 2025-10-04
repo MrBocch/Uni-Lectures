@@ -59,6 +59,8 @@ on the internet.
 
 ### AI
 
+* [Andrew Ng: Introduction to Deep Learning](https://www.youtube.com/watch?v=_NLHFoVNlbg&list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X)
+
 * [Intro to Artificial Inteligence](https://www.youtube.com/watch?v=GAyOoLsu8R0&list=PL_xRyXins848SiESlWXDQ82js0lA_Y8G_&index=1)
 
 * [Deep Learning Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
