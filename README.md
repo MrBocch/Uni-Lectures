@@ -459,6 +459,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [Oral History of Ken Thompson](https://www.youtube.com/watch?v=OmVHkL0IWk4)
+
 * [Python: The Documentary | An origin story](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
 
 * [Intel 4004 Microprocessor 35th Anniversary](https://www.youtube.com/watch?v=j00AULJLCNo)
@@ -475,8 +477,7 @@ Things that i found interesting and want to come back to
 
 * [Software Folklore](https://beza1e1.tuxen.de/lore/)
 
-Amazing video.
-* [going fast is about doing less](https://www.youtube.com/watch?v=5rb0vvJ7NCY)
+* [going fast is about doing less](https://www.youtube.com/watch?v=5rb0vvJ7NCY) Amazing video.
 
 * [Erlang Movie](https://www.youtube.com/watch?v=xrIjfIjssLE)
 
