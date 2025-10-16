@@ -11,6 +11,8 @@ on the internet.
 
 ### Programming Language Theory
 
+* [Programing Language Pragmatics](https://www.youtube.com/playlist?list=PL3gnTA9lM_WcTwfau8A0bks8CvGuBH-5R)
+
 * [Programing paradigms standford](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PL9D558D49CA734A02)
 
 * [Paradigms of Computer Programming](https://www.youtube.com/watch?v=MbrD-VrwpBY&list=PLhMnuBfGeCDO488LRJkng6nWzCQrIN1G1)
