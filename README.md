@@ -153,6 +153,8 @@ on the internet.
 
 * [Introduction to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall22/cos217/lectures/)
 
+* [Theory and Practice of Programming Languages](https://lucproglangcourse.github.io/index.html)
+
 * [Principles of Programming Languages](https://cs.wellesley.edu/~cs251/f21/index.html)
 
 * [Principles of Programming Languages](https://www2.cs.arizona.edu/~collberg/Teaching/520/2008/)
