@@ -465,6 +465,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+
 * [Oral History of Ken Thompson](https://www.youtube.com/watch?v=OmVHkL0IWk4)
 
 * [Python: The Documentary | An origin story](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
