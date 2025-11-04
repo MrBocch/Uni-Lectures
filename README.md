@@ -465,6 +465,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [Raymond Smullyan on Carson, 1982](https://www.youtube.com/watch?v=E27v83WWiGo)
+
 * [Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 
 * [Oral History of Ken Thompson](https://www.youtube.com/watch?v=OmVHkL0IWk4)
