@@ -465,6 +465,8 @@ on the internet.
 
 Things that i found interesting and want to come back to
 
+* [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/complexity/)
+
 * [Raymond Smullyan on Carson, 1982](https://www.youtube.com/watch?v=E27v83WWiGo)
 
 * [Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
