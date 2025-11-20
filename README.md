@@ -475,6 +475,8 @@ Things that i found interesting and want to come back to
 
 * [Intel 4004 Microprocessor 35th Anniversary](https://www.youtube.com/watch?v=j00AULJLCNo)
 
+* [Learn Pascal VHS](https://www.youtube.com/watch?v=UOtonwG3DXM)
+
 * [Revolution OS](https://www.youtube.com/watch?v=k0RYQVkQmWU)
 
 * [The Brith of BASIC](https://www.youtube.com/watch?v=WYPNjSoDrqw)
