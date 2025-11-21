@@ -151,6 +151,8 @@ on the internet.
 
 ### Programming Language Theory
 
+* [Programming Languages](https://web.stanford.edu/class/cs242/materials/)
+
 * [Introduction to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall22/cos217/lectures/)
 
 * [Theory and Practice of Programming Languages](https://lucproglangcourse.github.io/index.html)
