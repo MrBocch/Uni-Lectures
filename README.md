@@ -153,6 +153,8 @@ on the internet.
 
 * [Programming Languages](https://web.stanford.edu/class/cs242/materials/)
 
+* [Haskell Programming](https://web.cs.dal.ca/~nzeh/Teaching/3137/haskell/)
+
 * [Introduction to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall22/cos217/lectures/)
 
 * [Theory and Practice of Programming Languages](https://lucproglangcourse.github.io/index.html)
@@ -242,6 +244,8 @@ on the internet.
 ### Algorithms
 
 * [Data Structures](https://www.cs.uni.edu/~wallingf/teaching/052/)
+
+* [Algorithms II](https://web.cs.dal.ca/~nzeh/Teaching/4113/book/overview/topics.html)
 
 * [CIS2168 Data Structures](https://cis.temple.edu/~ingargio/cis68/)
 
