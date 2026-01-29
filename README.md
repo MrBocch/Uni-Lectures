@@ -200,6 +200,8 @@ on the internet.
 
 ### Compilers
 
+* [CS143 Compilers](https://web.stanford.edu/class/cs143/)
+
 * [Compilers](https://groups.seas.harvard.edu/courses/cs153/2018fa/)
 
 * [Compiler Design](https://www.capsl.udel.edu/courses/cpeg421/2012/main.php?p=home)
