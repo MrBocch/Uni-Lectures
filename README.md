@@ -352,6 +352,8 @@ on the internet.
 
 * [Category Theory for Computer Scientist](https://www.cs.cornell.edu/courses/cs6117/2020sp/)
 
+* [Computation For Pure Mathematicians](https://math.ou.edu/~dmccullough/teaching/f06-6833/)
+
 * [CS103 Mathematical Foundations of Computing](https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/)
 
 * [Probability and Computing](https://cmuprobability.wordpress.com/)
