@@ -7,7 +7,9 @@ on the internet.
 ## Video Lectures 
 
 
+### Digital Circuits
 
+- [Design of Digital Circuits](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8J58xLKBNFQFHRO3GrXxA9)
 
 ### Programming Language Theory
 
