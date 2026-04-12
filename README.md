@@ -153,6 +153,8 @@ on the internet.
 
 ### Programming Language Theory
 
+* [Concepts of Programming Languages](https://www.cs.bu.edu/fac/snyder/cs320/)
+
 * [Programming Languages](https://web.stanford.edu/class/cs242/materials/)
 
 * [Haskell Programming](https://web.cs.dal.ca/~nzeh/Teaching/3137/haskell/)
