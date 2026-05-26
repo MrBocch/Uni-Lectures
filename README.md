@@ -425,6 +425,8 @@ on the internet.
 
 ### misc
 
+* [Knuths Lectures on Mathematical Writing](https://youtube.com/playlist?list=PLOdeqCXq1tXihn5KmyB2YTOqgxaUkcNYG&si=Z5CZq6m_XgkTT97C)
+
 * [Great Ideas in Computer Science](https://www.andrew.cmu.edu/course/15-251/index.html)
 
 * [More Great Ideas in Theoretical Computer Science](https://people.eecs.berkeley.edu/~venkatg/teaching/15252-sp21/index.html)
