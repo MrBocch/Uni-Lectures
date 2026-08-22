@@ -204,6 +204,8 @@ on the internet.
 
 ### Compilers
 
+* [Compilers and Interpreters](https://jhucompilers.github.io/fall2025/)
+
 * [CS143 Compilers](https://web.stanford.edu/class/cs143/)
 
 * [Compilers](https://groups.seas.harvard.edu/courses/cs153/2018fa/)
