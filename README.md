@@ -153,6 +153,8 @@ on the internet.
 
 ### Programming Language Theory
 
+* [Functional Programming and Theorem Proving in Lean 4](https://perfect-math-class.leni.sh/)
+
 * [Concepts of Programming Languages](https://www.cs.bu.edu/fac/snyder/cs320/)
 
 * [Programming Languages](https://web.stanford.edu/class/cs242/materials/)
